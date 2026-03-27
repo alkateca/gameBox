@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">gameBox</string>
+    <string name="title">gamerBox</string>
+    <string name="subTitle">Tipo letterBox, mas ainda pior</string>
+    <string name="btnTitleScreen">Iniciar</string>
+    <string name="gameListTitle">Selecione suas recomendações</string>
+    <string name="btnList">Compartilhar</string>
 </resources>
